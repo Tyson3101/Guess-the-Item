@@ -1,0 +1,141 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(34, 32, 32);
+  height: 100%;
+  width: 100%;
+}
+
+.startPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: rgb(179, 211, 239);
+  padding: 2em;
+  height: 70%;
+  width: 50%;
+}
+
+.startPage h1 {
+  font-size: 6vh;
+  margin-bottom: 0.1em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.msg {
+  margin-bottom: 2em;
+  color: red;
+}
+
+.startPage .checklist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.startPage .checks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5vw;
+}
+
+.startPage button {
+  background-color: rgb(51, 126, 238);
+  border: 0;
+  padding: 1em;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.startPage button:hover {
+  background-color: rgb(13, 98, 226);
+  padding: 1.04em;
+}
+
+.header {
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1em;
+  font-size: 4.1vh;
+}
+
+.header h3 {
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  font-size: 3vh;
+}
+
+.game {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.preview {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+  background-color: rgb(240, 222, 222);
+}
+
+.preview img {
+  width: 22vh;
+}
+
+.answers {
+  margin-top: 2vh;
+  display: grid;
+  grid-template:
+    "1 1"
+    "2 2";
+  gap: 0.9vh;
+}
+
+.answer {
+  background-color: rgb(244, 246, 246);
+  border: 1px;
+  border: 0;
+  grid-area: 1;
+  padding: 2em;
+  cursor: pointer;
+  font-size: 2vh;
+}
+
+.answer:hover {
+  background-color: rgb(201, 213, 213);
+}
+
+.answer:nth-child(2) {
+  grid-area: 1;
+}
+
+.answer:nth-child(3) {
+  grid-area: 2;
+}
+
+.answer:nth-child(4) {
+  grid-area: 2;
+}

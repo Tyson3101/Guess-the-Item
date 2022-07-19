@@ -13277,7 +13277,7 @@
       "type": "wheel"
     }
   ],
-  "boost": [
+  "boosts": [
     {
       "name": "'16 BATMOBILE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4ecf6eaece1457511351.png",
@@ -14731,780 +14731,780 @@
       "type": "boost"
     }
   ],
-  "goalexplosion": [
+  "explosions": [
     {
       "name": "CLASSIC",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/58f553376a1499480991.png",
       "rarity": "Common",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BALLISTIC",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4b0c2076ef1518048683.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BIG SPLASH",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c08eb46c991566939417.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "CALCULATED",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/b10dc891091655297181.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "CHEQUERED FLAG",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/3e60fb2f241617812627.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "COSMOSIS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/aa04c7c3ed1637115819.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "DUST CLOUD",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/712450b3901566940352.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "FLOPPY FISH",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/7bf5c822e71575504160.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "FORCE RAZOR I",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/9ba8c2501b1555516643.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "FORCE RAZOR II",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/8f9995ded31555516678.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "HOLODATA",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/122859525b1585158253.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "HOT WHEELS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/9f2192a16e1538915492.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "KABLOOEY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c9a94880a41575504138.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "LEAGUE LEGACY (LEGACY)",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/1a2012738b1600942863.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "LIGHT SHOW",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/f43c47a04f1607531288.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "META-BLAST",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/7edc92a51f1575504187.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "MISTER MONSOON",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/1ab3bfc9bb1600892912.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "NOMSTER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/2d86d0aebc1646818737.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "OVERGROWTH",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/48416989001585162453.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "PHOENIX FIRE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/48079597581655294767.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "POOF",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/fe806d90ef1555516209.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "QUASAR I",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/f25e39c7011544467199.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "QUASAR II",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/9f005b7d381544467242.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "QUASAR III",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/e77b1135a91544467264.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "RAD ROCK",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/be4670237b1585162509.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "RISER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/dd090ac14d1607531047.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - BRONZE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/9c3505ade01646818752.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - CHAMPION",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/15c55ec6971646818772.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - DIAMOND",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/be995e9abf1646818768.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - GOLD",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/b2d10eee411646818760.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - GRAND CHAMPION",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/369886b6761646818776.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - PLATINUM",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c2f4833a8e1646818764.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - SILVER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/990f1989da1646818756.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "S5 - SUPERSONIC LEGEND",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a6290162951646818780.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - BRONZE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/348e0820441557758709.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - CHAMPION",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/93c89c571d1557758777.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - DIAMOND",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a56c9cadd81557758764.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - GOLD",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/196174a4881557758741.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - GRAND CHAMPION",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/08be02ef991557758790.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - PLATINUM",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/6d5c549cc11557758754.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SEASON 10 - SILVER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/ca270d0ce61557758729.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SHIELD BREAKER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a2a05679271655297173.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SPATIAL RIFT",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/6bf0c299141600891682.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STRIKER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/b9b245505b1527631020.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STRIKER LEGEND",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c3c665081c1527631061.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STRIKER PRO",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/7fa980d8521527631042.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SUPERNOVA I",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/80356dcac61535732414.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SUPERNOVA II",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/1172a42b561535732446.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SUPERNOVA III",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/15bddf59e41535732469.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "TACTICAL NUKE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/dbba4c7fb51576525333.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "WALL BREAKER I",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4a47727db51566942361.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "WALL BREAKER II",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/571524ea461566942380.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "YEEHAW",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/233a527ae71628671225.png",
       "rarity": "Limited",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BATMAN",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a5633f56081510270787.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BATMAN 1989",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a520c1130f1634207502.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "GRAND SLAM",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/cc446ccb1d1585169378.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "HAPPY HOLIDAYS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/3f40dae16a1513041483.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "REAPER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/9e6fc7a8151508198121.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "THE BATMAN",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/d8a4ab62d01646241120.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "THE DARK KNIGHT",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/bade1be07c1634207487.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "VAMPIRE BAT",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c8f0558bf41508198817.png",
       "rarity": "Import",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BALL-STAR",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/3677beca571628671207.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BEACH PARTY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a3774764d11528750437.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BUTTERFLIES",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4cfbdb64de1521481749.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "CHROMATIC HOLLOW",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a461189da11617818937.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "COMPLEXITY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/08656e41091655886809.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "DIGNITAS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/18ea9737761655886782.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "ENDPOINT",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/fe918da9ad1655886799.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "ENVY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/3617f014cd1655886850.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "EVIL GENIUSES",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/506cbfbe761655886814.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "FAZE CLAN",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/0254e3c5941655886827.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "FURIA",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/18d5afbdfe1655886855.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "G2 ESPORTS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/7bd10acd3b1655886830.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "GHOST GAMING",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/bd36e510181655886766.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "GROUND ZERO GAMING",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/d1b2c49cc71655886858.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "HAND HEART",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/cac28b8ebd1607542030.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "KARMINE CORP",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a34f7cfb571655886834.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "MISFITS GAMING",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/d575c78c6f1655886775.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "NRG",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/fcd4e3dddb1655886772.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "PLANETARY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/f0463fc4aa1637115836.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "RENEGADES",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4bbc96a93e1655886770.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SMPR ESPORTS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/06d48ee2771655886802.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SPACESTATION GAMING",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/55d1311c8f1655886862.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STAY PUFT",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4ae997ff531560168538.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "T. REX",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/560bd960141529540379.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "TP",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/d64c9d3df01646818742.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "TEAM BDS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/98136185741655886778.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "TEAM VITALITY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/67e9972f261655886806.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "VERSION1",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/676482c0c51655886865.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "WOW!",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4d45cf19fc1638527575.png",
       "rarity": "Exotic",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "ABRACADABRA",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/3d509c3ed91628671186.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "AIR STRIKE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/bdccb034661614104775.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "ATOMIC BLIP",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/f31c428a1d1617818918.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "ATOMIZER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/8a7b232a1f1522776922.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "BUFFY-SUGO",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/b4b1a221de1603153908.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "CARBONATOR",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/0470b034eb1628024159.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "DIGIGLOBE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/89fdf4bc8c1600438778.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "DUELING DRAGONS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/b50e027ce81512417574.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "DUELING DRAGONS: YIN & YANG",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/93ced642a61655715033.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "DUNKER",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4d15bee8ca1655296107.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "ELECTROSHOCK",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c968ab9a051499318860.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "FIREWORKS",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/41474efd281499318897.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "GRAVITY BOMB",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/bd033ee2471592899711.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "HADES BOMB",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/548eb1f1041607541851.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "HELLFIRE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/2edd5c32581499318998.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "JUICED",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/308516a6411527614392.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "LANTERN LIFT",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4279d0acfb1579547243.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "METEOR STORM",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/c21c1a9f521583958908.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "MIC DROP",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a7d66ead211607611032.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "NEURO-AGITATOR",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a8cd5d401b1570124367.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "NIGHT-MARE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/af1214eabd1634207454.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "PAPER DRAGON",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/80a1ba84011581192913.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "PARTY TIME",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/4c9d399f811506784704.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "POLY POP",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/2728fa5ec21512417771.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "POPCORN",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/0434e7f4621506784717.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "RIGHTEOUS GALE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/93bdd05cd61600438731.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SHADE RAID",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/7a3bade9fa1646818747.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SHATTERED",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/0115fc90961560082977.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SINGULARITY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/ff6a5b78cd1532975617.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SOLAR FLARE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/3b9784bcdd1539016107.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SPHENERGY",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/650e7a1d3d1637115851.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "SUB-ZERO",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/27763725031499318967.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "TENTAGOAL",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/a4be78100c1646818730.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "TOON",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/ad71bf835a1518046874.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "VOXEL",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/9c0e4179191560083792.png",
       "rarity": "Black Market",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STANDARD GREEN",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/1b296663511499481065.png",
       "rarity": "Legacy",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STANDARD ORANGE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/235796ba9c1499481107.png",
       "rarity": "Legacy",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STANDARD PINK",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/5e84e0329f1499481143.png",
       "rarity": "Legacy",
-      "type": "goalexplosion"
+      "type": "explosion"
     },
     {
       "name": "STANDARD PURPLE",
       "image": "https://rocket-league.com/content/media/items/avatar/220px/709dd3aab51499481182.png",
       "rarity": "Legacy",
-      "type": "goalexplosion"
+      "type": "explosion"
     }
   ]
 }
