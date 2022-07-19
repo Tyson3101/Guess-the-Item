@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guess-the-item/static/css/main.cd478aa9.css",
+    "main.js": "/guess-the-item/static/js/main.54e58abc.js",
+    "index.html": "/guess-the-item/index.html",
+    "main.cd478aa9.css.map": "/guess-the-item/static/css/main.cd478aa9.css.map",
+    "main.54e58abc.js.map": "/guess-the-item/static/js/main.54e58abc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd478aa9.css",
+    "static/js/main.54e58abc.js"
+  ]
+}
