@@ -102,7 +102,10 @@ body {
 }
 
 .preview img {
-  width: 22vh;
+  min-width: 137px;
+  max-width: 137px;
+  min-height: 137px;
+  max-height: 137px;
 }
 
 .answers {
@@ -122,6 +125,7 @@ body {
   padding: 2em;
   cursor: pointer;
   font-size: 2vh;
+  width: max(17vw, 300px, fit-content);
 }
 
 .answer:hover {
